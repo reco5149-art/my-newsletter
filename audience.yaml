@@ -1,0 +1,138 @@
+# ─────────────────────────────────────────────────────────────
+# audience.yaml — 타깃 독자 · 중요도 기준 · 제외 조건
+# 이 파일만 바꾸면 "누구를 위한 브리핑인지"와 "무엇을 중요하게 볼지"가 바뀝니다.
+# (소스 목록 · 시간 제한 같은 기술 설정은 config.py에 있습니다)
+# ─────────────────────────────────────────────────────────────
+
+# ── 1. 타깃 독자 ─────────────────────────────────────────────
+reader: "AI 도구와 에이전트를 업무에 활용하려는 한국 직장인"   # GPT 채점·요약 프롬프트에 그대로 들어감
+
+persona:            # 보고서와 프롬프트 설계의 기준 (코드에서는 reader만 사용)
+  who: "개발자는 아니지만 생성형 AI 도구와 에이전트를 업무에 써 보려는 한국 직장인"
+  when: "출근 전후 5분, 휴대폰 디스코드 알림으로 읽음"
+  wants:
+    - "내 업무에 쓸 수 있는 새 모델 · 도구 · 기능"
+    - "빅테크 · 국내 AI 기업의 큰 움직임 (실적 · 투자 · 인수)"
+    - "AI 규제 · 정책 변화"
+  avoids:
+    - "광고성 글, 근거 없는 소문"
+    - "학술적 세부, 너무 기술적인 내용"
+    - "영어 원문을 끝까지 읽어야 이해되는 요약"
+
+# ── 2. 중요도 기준 ───────────────────────────────────────────
+# 본선(GPT 채점) 프롬프트에 한 줄씩 그대로 들어가는 '중요도 판단 문장'
+importance_criteria:
+  - "9~10: 업계 판도를 바꾸는 소식 (주요 회사의 새 모델·제품 출시, 대형 투자·인수, 큰 규제 변화)"
+  - "6~8: 알아 두면 업무에 도움이 되는 소식 (새 도구·기능, 주요 연구, 국내외 주요 기업 동향)"
+  - "3~5: 흥미롭지만 영향이 작은 소식"
+  - "1~2: 광고성 글, 근거 없는 소문, 출처가 불분명한 글, AI와 관련 없는 글"
+  - "'다룬 곳'이 많을수록 업계의 관심이 큰 소식이야. 당장 쓸 수 없는 제품이라도 업계에 미칠 영향이 크면 높게 줘."
+
+# 선별 구조: 예선(규칙 점수, 무료) → 본선(GPT 채점, 한 번에 batch_size건)
+selection:
+  batch_size: 20          # 예선 통과 → 본선(GPT 한 번 호출)에 보내는 후보 수
+  pick_count: 5           # 최종 발행 기사 수
+  reserve_count: 2        # 검수 실패 때 대신 쓸 예비 기사 수
+  max_per_source: 5       # 후보 중 한 매체가 차지할 수 있는 최대 수 (한 곳에 쏠리지 않게)
+  coverage_bonus_max: 3   # 최종 점수 = GPT 점수 + 여러 곳 보도 가산점(다른 곳 1곳당 +1, 최대 이만큼)
+
+# 예선(규칙 점수) 기준
+rule_score:
+  source_points:          # 출처: 공식 발표(1차 출처) > 고른 RSS 매체 · 믿을 만한 언론 > 모르는 사이트
+    official: 3
+    rss: 2
+    trusted: 2
+    unknown: -2
+  official_sources: ["OpenAI", "Google DeepMind", "Anthropic", "Meta AI", "Mistral AI", "Hugging Face"]
+  trusted_domains:
+    # 해외 언론 · 테크 매체
+    - reuters.com
+    - apnews.com
+    - bloomberg.com
+    - wsj.com
+    - ft.com
+    - nytimes.com
+    - washingtonpost.com
+    - theguardian.com
+    - bbc.com
+    - bbc.co.uk
+    - cnbc.com
+    - axios.com
+    - theinformation.com
+    - semafor.com
+    - fortune.com
+    - businessinsider.com
+    - economist.com
+    - techcrunch.com
+    - theverge.com
+    - wired.com
+    - arstechnica.com
+    - technologyreview.com
+    - venturebeat.com
+    - zdnet.com
+    - cnet.com
+    - engadget.com
+    - theregister.com
+    - siliconangle.com
+    - geekwire.com
+    - 404media.co
+    - platformer.news
+    - the-decoder.com
+    - mashable.com
+    - qz.com
+    - fastcompany.com
+    - time.com
+    - nature.com
+    - science.org
+    - ieee.org
+    # 회사 공식 블로그
+    - openai.com
+    - anthropic.com
+    - deepmind.google
+    - blog.google
+    - huggingface.co
+    - nvidia.com
+    - microsoft.com
+    - aboutamazon.com
+    - mistral.ai
+    - meta.com
+    # 국내 언론
+    - aitimes.com
+    - aitimes.kr
+    - zdnet.co.kr
+    - etnews.com
+    - yna.co.kr
+    - hankyung.com
+    - mk.co.kr
+    - chosun.com
+    - joongang.co.kr
+    - donga.com
+    - sedaily.com
+    - mt.co.kr
+    - bloter.net
+    - byline.network
+    - ddaily.co.kr
+    - inews24.com
+    - digitaltoday.co.kr
+  keyword_groups:         # 제목 · 설명에 들어 있으면 묶음마다 +1
+    "새 모델·제품": [launch, release, unveil, introduce, introducing, announce, 출시, 공개, 발표]
+    "에이전트·도구": [agent, agentic, coding, api, open-source, open source, 에이전트, 오픈소스, 코딩]
+    "투자·인수": [funding, raises, acquisition, acquire, acquiring, ipo, valuation, invest, investment, 투자, 인수, 상장, 기업가치]
+    "정책·규제": [regulation, law, bill, policy, lawsuit, court, ban, 규제, 법안, 소송, 정책]
+    "반도체·인프라": [gpu, chip, data center, datacenter, 반도체, 데이터센터]
+    "주요 회사": [openai, anthropic, google, gemini, claude, gpt, meta, llama, nvidia, microsoft, deepseek, mistral, apple, amazon, xai, 삼성, 네이버, 카카오, 엔비디아, 구글, 오픈ai, 앤트로픽]
+  coverage_points_per_source: 2   # 다른 곳도 다뤘으면 1곳당 +2
+  coverage_points_max: 4
+  freshness: {within_6h: 2, within_12h: 1}
+
+# ── 3. 제외 조건 ─────────────────────────────────────────────
+exclude:
+  hours_back: 24                  # 최근 24시간 안의 기사만
+  history_days: 7                 # 보낸 기사와 같은 주소는 7일 동안 다시 안 보냄
+  same_story_days: 2              # 보낸 소식과 제목의 세 낱말이 겹치면 2일 동안 다시 안 보냄
+  ai_words:                       # 하나도 없으면 AI 기사가 아닐 가능성 → 감점
+    [ai, artificial intelligence, llm, gpt, model, machine learning, 인공지능, 생성형, 모델, 에이전트]
+  not_ai_penalty: -3
+  spam_words:                     # 광고성 → 감점
+    [sponsored, webinar, coupon, promo code, giveaway, top 10, best ai tools, "[광고]", 할인, 이벤트]
+  spam_penalty: -3

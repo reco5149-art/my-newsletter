@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+# 단계별 실행(stages/)의 중간 결과
+collect_result.json
+select_result.json
+summary_result.json
+review_result.json
+# 실행 화면 기록
+설치기록.txt
+실행결과.txt
