@@ -1,0 +1,704 @@
+{
+  "selected": [
+    {
+      "id": "41e0dc889e76",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "source": "Ars Technica AI",
+      "via": "rss",
+      "published_at": "2026-10-28T18:47:27+00:00",
+      "snippet": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "content": "It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon , Google has announced Gemini 4 Carbon . This isn't the Flash model equivalent we've been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while. Stop me if you've heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It's so capable, in fact, that Google can't let you use it just yet. Gemini 4 Carbon reportedly makes big gains in cybersecurity applications. Google says the model shows a \"significant leap\" in vulnerability detection, validation, and remediation. Carbon is also apparently twice as likely to generate code that is free of vulnerabilities versus Argon. Meanwhile, the Chrome team claims that Carbon is 10 times better at generating \"high-quality\" patches compared to non-Google models. Google also notes that Carbon has increased its score by 89 points on WebDev Arena , now ranking at number four on the leaderboard. Read full article Comments",
+      "mentioned_by": [
+        "Ars Technica AI",
+        "arstechnica.com",
+        "siliconangle.com",
+        "nacionale.com",
+        "cnet.com",
+        "The Verge AI",
+        "felloai.com",
+        "mashable.com",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "827e422339e9",
+      "title": "퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216770",
+      "source": "AI타임스",
+      "via": "rss",
+      "published_at": "2026-10-29T03:40:49+00:00",
+      "snippet": "AI 반도체 스타트업이 국내 스타트업 역사상 손꼽히는 규모의 투자를 이끌어냈다.퓨리오사AI(대표 백준호)는 총 8200억원 규모의 시리즈D 투자 유치를 완료했다고 29일 밝혔다. 투자 후 기업가치는 약 3조8000억원으로 평가됐다.국민성장펀드가 3700억원을 투자해 이번 라운드의 최대 투자자로 참여했다. 해외에서는 미국 인피니텀과 싱가포르 QUDA 캐피탈 파트너스, 시스코 인베스트먼트 등이 합류했다.한국산업은행·네이버·넥스트랜스 등 기존 주주의 후속 투자는 총 1700억원 규모다. 한국수출입은행은 설립 이후 처음으로 벤처기업 직접투",
+      "content": "발행일: 2026-10-29 12:41 (목)\n로그인뉴스레터 신청\nAI타임스\n퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파\n글자크기 설정\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n스크롤 이동 상태바\n퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파\n 김해원 기자\n 입력 2026.10.29 12:40\n 댓글 0\n 구글 검색 선호 출처로 추가\n글자크기 설정\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n이 기사를 공유합니다\n퓨리오사AI NXT RNGD 서버 (사진=퓨리오사AI)\n퓨리오사AI NXT RNGD 서버 (사진=퓨리오사AI)\nAI 반도체 스타트업이 국내 스타트업 역사상 손꼽히는 규모의 투자를 이끌어냈다.\n퓨리오사AI(대표 백준호)는 총 8200억원 규모의 시리즈D 투자 유치를 완료했다고 29일 밝혔다. 투자 후 기업가치는 약 3조8000억원으로 평가됐다.\n국민성장펀드가 3700억원을 투자해 이번 라운드의 최대 투자자로 참여했다. 해외에서는 미국 인피니텀과 싱가포르 QUDA 캐피탈 파트너스, 시스코 인베스트먼트 등이 합류했다.\n한국산업은행·네이버·넥스트랜스 등 기존 주주의 후속 투자는 총 1700억원 규모다. 한국수출입은행은 설립 이후 처음으로 벤처기업 직접투자 대상으로 퓨리오사AI를 선정했으며, 유암코는 국내 신규 투자자 중 최대인 400억원을 투자했다.\n퓨리오사AI는 확보한 자금으로 2세대 AI 반도체 ‘레니게이드(RNGD)’의 생산 확대와 글로벌 상용화에 속도를 낼 계획이다. 브로드컴과 협력 중인 3세대 AI 가속기 개발도 가속한다. 하이퍼스케일 AI 인프라 시장을 겨냥한 제품으로 성능과 전력 효율, 확장성을 높일 예정이다.\n앞서 올해 1월 레니게이드 양산을 시작한 이후 LG AI연구원과 상용화 협력을 진행했다. 삼성SDS의 레니게이드 기반 NPU 서비스(NPUaaS) 출시와 업스테이지의 다음 검색 요약 서비스 공급 등 상용화 사례도 확보한 바 있다.\n백준호 퓨리오사AI 대표는 “이번 투자 유치는 기술력과 사업 실행 역량에 대한 국내외 투자자들의 신뢰를 보여주는 이정표”라며 “고성능·고효율 AI 반도체로 AI 인프라 시장에 새로운 선택지를 제시하겠다”고 말했다.\n김해원 기자 hwkim@aitimes.com\n관련기사\n 경북, 퓨리오사AI와 지역 AI 반도체 산업 생태계 조성 나서\n 퓨리오사AI·업스테이지 등 5개사 '소버린 AI 풀스택 인프라' 공동 개발 맞손\n 오케스트로, 퓨리오사AI NPU로 추론 안정성 확인…\"사업 모델 본격 발굴\"\n 퓨리오사AI, 싱가포르 법인 설립...APAC 시장 공략 나선다\n 한컴, 퓨리오사AI '레니게이드' 탑재한 AX 제품 개발한다\n김해원 기자의 프로필 이미지\n김해원 기자 hwkim@aitimes.com\n다른기사 보기\n키워드\n#AI #인공지능 #퓨리오사AI #NPU #레니게이드 #업스테이지 #삼성SDS #LG AI연구원 #NPUaaS #RNGD #AI 반도체 #AI 가속기\n저작권자 © AI타임스 무단전재 및 재배포, AI학습 및 활용 금지\n개의 댓글\n댓글 정렬\nBEST댓글\nBEST 댓글 답글과 추천수를 합산하여 자동으로 노출됩니다.\n내 댓글 모음\n모바일버전",
+      "mentioned_by": [
+        "AI타임스"
+      ]
+    },
+    {
+      "id": "76316c94ca69",
+      "title": "MS, 10분기 연속 최대 매출...AI 투자 지연에 네오클라우드 주가 하락",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216773",
+      "source": "AI타임스",
+      "via": "rss",
+      "published_at": "2026-10-29T03:39:22+00:00",
+      "snippet": "마이크로소프트(MS)가 클라우드 사업의 성장에 힘입어 10분기 연속 사상 최대 매출을 기록했다. 애저(Azure) 매출이 전년 동기 대비 48% 증가하고 오픈AI 관련 매출도 한 분기에 100억달러(약 13조원)에 달했다. 다만 외부 AI 인프라 공급이 지연되면서 올해 자본지출 전망을 50억달러(약 6조6000억원) 낮췄는데, 이에 따라 코어위브와 네비우스 등 네오클라우드 업체들의 주가가 하락했다.MS는 28일(현지시간) 회계연도 2027년 1분기(2026년 7~9월) 실적을 발표했다. 이번 실적까지 10분기 연속 분기 기준 사상",
+      "content": "발행일: 2026-10-29 14:31 (목)\n로그인뉴스레터 신청\nAI타임스\nMS, 10분기 연속 최대 매출...AI 투자 지연에 네오클라우드 주가 하락\n글자크기 설정\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n스크롤 이동 상태바\nMS, 10분기 연속 최대 매출...AI 투자 지연에 네오클라우드 주가 하락\n 박찬 기자\n 입력 2026.10.29 12:39\n 댓글 0\n 구글 검색 선호 출처로 추가\n글자크기 설정\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n이 기사를 공유합니다\n(사진=셔터스톡)\n(사진=셔터스톡)\n마이크로소프트(MS)가 클라우드 사업의 성장에 힘입어 10분기 연속 사상 최대 매출을 기록했다. 애저(Azure) 매출이 전년 동기 대비 48% 증가하고 오픈AI 관련 매출도 한 분기에 100억달러(약 13조원)에 달했다. 다만 외부 AI 인프라 공급이 지연되면서 올해 자본지출 전망을 50억달러(약 6조6000억원) 낮췄는데, 이에 따라 코어위브와 네비우스 등 네오클라우드 업체들의 주가가 하락했다.\nMS는 28일(현지시간) 회계연도 2027년 1분기(2026년 7~9월) 실적을 발표했다. 이번 실적까지 10분기 연속 분기 기준 사상 최대 매출을 경신했다.\n매출은 전년 동기 대비 19% 증가한 922억8000만달러(약 123조원)로, 시장 예상치인 906억2000만달러를 웃돌았다. 순이익은 366억3000만달러(약 48조8000억원)로 전년 동기 277억5000만달러보다 32% 늘었다. 조정 주당순이익(EPS)은 4.89달러로 시장 예상치인 4.72달러를 넘어섰다.\n핵심 성장 동력은 클라우드 사업이다. 클라우드 매출은 전년 동기 대비 30% 증가한 639억달러(약 85조원)를 기록했다. 이 가운데 애저 매출은 331억7000만달러(약 44조원)로, 시장 예상치인 328억4000만달러를 웃돌았다.\n성장세는 다음 분기에도 이어질 전망이다. 회계연도 2분기 애저 매출 증가율을 49~50%로 예상했다. 시장 전망치인 47.6%보다 높은 수준이다. 전체 매출도 960억~971억달러(약 128조~129조원)로 제시해 시장 예상치인 956억달러를 넘어설 것으로 내다봤다.\n사티아 나델라 MS CEO는 \"조직이 자체 지능을 구축하고 소유하도록 지원하고, 에이전트의 안전성과 보안성을 통해 신뢰를 얻으면서 혁신을 실제 도입 확대로 연결하고 있다\"고 밝혔다.\n오픈AI와의 사업도 실적에 기여했다. 오픈AI와의 상업적 계약에서 발생한 매출이 이번 분기 100억달러에 달했다고 공개했다. 여기에는 클라우드 서비스 매출과 수익 배분 등이 포함된다. 전체 분기 매출의 약 11%에 해당하는 규모다. 오픈AI가 다른 클라우드 사업자와 협력을 확대하고 있지만, 양사 간 사업적 연계가 여전히 상당하다는 점을 보여준다.\n다만 AI 인프라 확충을 위한 자본지출은 예상보다 적었다. 1분기 자본지출과 금융리스 규모는 452억달러(약 60조원)로, 전년 동기 349억달러보다 약 30% 증가했다. 그러나 시장 예상치인 507억달러와 당초 예상했던 500억달러에는 미치지 못했다.\n에이미 후드 MS CFO는 외부 업체와 체결한 GPU 서비스 계약의 일부에서 인프라 공급이 지연됐다고 설명했다. 당초 공급받기로 한 컴퓨팅 용량이 제때 들어오지 않아 지출 시점도 늦춰졌다는 것이다. 공급 지연분이 회계연도 하반기에 반영되면서 자본지출이 다시 늘어날 것으로 예상했다.\n이에 따라 2026년 연간 자본지출 전망을 기존 1750억달러에서 1700억달러(약 226조6000억원)로 낮췄다. 이는 AI 투자를 축소하기로 한 결정이라기보다 외부 인프라 공급 일정이 늦어진 데 따른 조정이라는 설명이다.\n시장에서는 이 같은 변화가 네오클라우드 기업에 미칠 영향에 주목하고 있다. MS는 자체 데이터센터 확충과 함께 외부 사업자로부터 GPU 기반 컴퓨팅 자원을 확보해 AI 수요에 대응해 왔다. 코어위브와 네비우스가 주요 인프라 공급 파트너다. 특히 MS는 네비우스와 200억달러(약 26조6000억원)에 가까운 대규모 컴퓨팅 계약을 체결한 바 있다.\n자본지출이 예상에 미치지 못하면서 외부 데이터센터의 공급 지연과 네오클라우드 업체들의 사업 일정에 대한 투자자들의 경계심이 커졌다. 실적 발표 이후 시간외 거래에서 코어위브와 네비우스 주가는 각각 약 5% 하락했고, 아이렌(IREN)도 약 3% 떨어졌다. 대규모 데이터센터 구축과 GPU 확보를 위해 막대한 자금을 조달해 온 네오클라우드 기업들은 공급 지연뿐 아니라 금리 상승과 차입 비용 증가에도 노출돼 있다.\n빅테크의 AI 투자에 대한 시장의 시선도 엇갈리고 있다. MS는 클라우드 매출 증가와 높은 현금 창출력을 바탕으로 투자 성과를 보여줬지만, 대규모 설비투자가 실제 수익으로 이어질지에 대한 우려는 여전하다. 1분기 잉여현금흐름은 186억달러(약 24조7000억원)로 시장 예상치를 약 100억달러 웃돌았다. 반면 일부 경쟁사는 AI 인프라 지출 증가로 현금흐름이 악화하고 차입 부담이 커지고 있다.\nMS의 실적은 기업들의 AI 수요가 여전히 강하다는 점을 보여주는 동시에, AI 인프라 시장의 공급 일정이 관련 기업의 실적과 주가에 직접적인 영향을 미칠 수 있음을 드러냈다.\n박찬 기자 cpark@aitimes.com\n관련기사\n MS, 애저 사업부 경영진에 '20% 비용 절감' 지시...\"호황에도 투자비 부담\"\n MS, 사업 부문 2개로 재편…‘애저’ 분기 매출 첫 공개\n AI 투자도 '실적 증명' 시대…MS가 바꾼 시장의 평가 기준\n박찬 기자의 프로필 이미지\n박찬 기자 cpark@aitimes.com\n다른기사 보기\n키워드\n#MS #실적 발표 #클라우드 호조 #최대 매출 #투자 지연 #네오클라우드 #주가 하락 #오픈AI #자본지출 #인공지능 #AI\n저작권자 © AI타임스 무단전재 및 재배포, AI학습 및 활용 금지\n개의 댓글\n댓글 정렬\nBEST댓글\nBEST 댓글 답글과 추천수를 합산하여 자동으로 노출됩니다.\n내 댓글 모음\n모바일버전",
+      "mentioned_by": [
+        "AI타임스"
+      ]
+    },
+    {
+      "id": "c1488aa54e71",
+      "title": "구글, AI로 검색량 급증했지만 광고 매출은 둔화...주가 10% 급락",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216774",
+      "source": "AI타임스",
+      "via": "rss",
+      "published_at": "2026-10-29T03:51:17+00:00",
+      "snippet": "구글이 AI 기능 도입으로 최근 5년 사이 가장 빠른 검색량 증가세를 기록했지만, 핵심 수익원인 검색 광고 매출은 시장 기대에 미치지 못했다. AI 검색 사용자가 빠르게 늘어나지만, 광고 수익화가 이를 따라가지 못하면서 투자자들의 우려가 커졌다. 클라우드 매출이 두 배 이상 증가했음에도 실적 발표 이후 구글 주가는 시간외 거래에서 약 10% 급락했다.구글은 28일(현지시간) 2026년 3분기 실적을 발표했다. 전체 매출은 전년 동기 대비 25% 증가한 1276억달러(약 170조원)를 기록했지만, 시장 예상치인 1282억달러를 밑돌았",
+      "content": "발행일: 2026-10-29 12:41 (목)\n로그인뉴스레터 신청\nAI타임스\n구글, AI로 검색량 급증했지만 광고 매출은 둔화...주가 10% 급락\n글자크기 설정\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n스크롤 이동 상태바\n구글, AI로 검색량 급증했지만 광고 매출은 둔화...주가 10% 급락\n 박찬 기자\n 입력 2026.10.29 12:51\n 댓글 0\n 구글 검색 선호 출처로 추가\n글자크기 설정\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n이 기사를 공유합니다\n(사진=셔터스톡)\n(사진=셔터스톡)\n구글이 AI 기능 도입으로 최근 5년 사이 가장 빠른 검색량 증가세를 기록했지만, 핵심 수익원인 검색 광고 매출은 시장 기대에 미치지 못했다. AI 검색 사용자가 빠르게 늘어나지만, 광고 수익화가 이를 따라가지 못하면서 투자자들의 우려가 커졌다. 클라우드 매출이 두 배 이상 증가했음에도 실적 발표 이후 구글 주가는 시간외 거래에서 약 10% 급락했다.\n구글은 28일(현지시간) 2026년 3분기 실적을 발표했다. 전체 매출은 전년 동기 대비 25% 증가한 1276억달러(약 170조원)를 기록했지만, 시장 예상치인 1282억달러를 밑돌았다.\n조정 주당순이익(EPS)도 2.67달러로 시장 전망치인 3.02달러에 미치지 못했다. 매출과 이익이 모두 시장 기대를 밑돈 것은 약 4년 만이다.\n가장 큰 부담은 검색 광고 사업에서 나타났다. 검색 및 관련 사업 매출은 633억5000만달러(약 84조4000억원)로 전년 동기 대비 12% 증가했다. 하지만 증가율은 올해 1분기 19%, 2분기 17%에 이어 3분기 12%로 낮아졌다. 시장 예상치인 649억6000만달러에도 미치지 못했다.\n필립 쉰들러 구글 최고 사업책임자(CBO)는 컨퍼런스콜에서 'AI 모드' 이용이 늘면서 검색어 증가율이 최근 5년 사이 가장 높은 수준에 도달했다고 밝혔다. 다만 AI 모드의 검색어는 기존 검색보다 광고 수익화 수준이 낮다고 설명했다.\n그는 \"AI 모드 검색어의 강한 증가세는 AI 모드에서 나타나는 낮은 수익화 수준 때문에 검색 관련 매출 증가에 영향을 미쳤다\"고 말했다.\n이는 구글이 AI 검색으로 사용자를 확보하는 데는 성과를 내고 있지만, 이를 광고 매출로 연결하는 데는 아직 한계가 있음을 보여준다. 생성 AI가 기존 검색을 대체할 수 있다는 우려가 현실화하면, 검색 광고에 의존해 온 사업 구조에도 영향을 줄 수 있다.\n순다르 피차이 구글 CEO는 검색 경험 개선과 수익화를 단계적으로 추진하겠다는 입장을 밝혔다. 그는 \"10여년 전 모바일로 전환했을 때와 마찬가지로, 최고의 검색 사용자 경험을 구축한 뒤 수익화에 집중하고 있다\"고 말했다.\n구글은 AI 검색의 수익성을 높이기 위한 광고 확대에도 나섰다. 쉰들러는 \"AI 개요와 AI 모드에 고품질 광고를 더 많은 사용자와 검색어로 확대하고 있다\"고 밝혔다. 미국에서 진행해 온 광고 실험을 확장하고, AI 모드 광고를 해외 시장에도 도입한다는 계획이다.\nAI 검색에서는 기존 검색과 다른 방식으로 사용자와 광고를 연결할 가능성도 커지고 있다. AI 모드에서 입력하는 검색어는 기존 검색보다 평균 3배 길다. 이미지와 음성, 문서 등을 활용한 멀티모달 검색도 늘고 있다. 구글은 이러한 변화가 새로운 광고 기회로 이어질 것으로 기대하고 있다.\n반면 AI 인프라 투자는 현금흐름에 부담을 주고 있다. 구글의 3분기 자본지출은 513억6000만달러(약 68조4000억원)로, 전 분기 449억달러보다 증가했다. 잉여현금흐름은 90억7000만달러(약 12조원) 적자를 기록해 시장 예상보다 악화했다. AI 데이터센터와 컴퓨팅 자원 확보에 막대한 자금을 투입하면서 투자 성과를 둘러싼 시장의 압박도 커지는 상황이다.\n올해 자본지출 전망을 1950억~2050억달러(약 260조~273조원)로 유지했지만, 2027년에는 지출이 크게 늘어날 것으로 예상했다. 아나트 아슈케나지 CFO는 \"2027년 자본지출이 상당히 증가할 것으로 계속 예상하고 있다\"고 밝혔다.\n클라우드 사업은 대조적인 성장세를 보였다. 구글 클라우드 매출은 전년 동기 대비 103% 증가한 307억1000만달러(약 41조원)로 시장 예상치를 웃돌았다. 영업이익도 111억달러(약 14조8000억원)로 예상치인 98억달러를 넘어섰다. 기업들의 AI 모델 학습과 서비스 운영 수요가 늘면서 클라우드 인프라 사업이 빠르게 성장하고 있다.\nAI 모델과 서비스 이용도 확대되고 있다. 구글은 이날 최고 성능의 '제미나이 4 카본'을 공개했으며, '제미나이' 앱 사용자는 10억명에 도달했다고 밝혔다. 자체 AI 반도체인 텐서처리장치(TPU) 판매도 확대하면서 클라우드와 반도체 사업을 함께 키우고 있다.\n그러나 클라우드 성장만으로 검색 광고의 둔화와 대규모 AI 투자 부담을 상쇄하지는 못했다. 투자자들은 AI가 기존 사업을 얼마나 빠르게 바꾸고 있는지뿐 아니라, 이를 지속 가능한 수익으로 전환할 수 있는지도 따지고 있다.\n인베스팅닷컴의 토머스 몬테이로 선임 애널리스트는 \"구글에는 중요한 분기점이 찾아왔다\"며 \"피차이와 경영진이 AI 수익화 방식을 개선하지 못하면 가까운 미래에 핵심 사업 여러 분야에서 주도권을 잃을 위험이 있다\"고 분석했다.\n이번 실적은 AI 검색이 사용량 확대와 사용자 경험 개선에 기여하더라도 기존 광고 모델과 같은 수준의 수익성을 보장하지는 않는다는 점을 드러냈다.\n박찬 기자 cpark@aitimes.com\n관련기사\n 피차이 “매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”\n 구글 'AI 개요', 1년 만에 검색 비중 15%→43% 급증\n 구글, AI 인프라 투자 '폭주'…올해 지출 전망 최대 301조원 상향\n박찬 기자의 프로필 이미지\n박찬 기자 cpark@aitimes.com\n다른기사 보기\n키워드\n#구글 #AI 검색 #검색량 증가 #검색 광고 매출 #실적 발표 #AI 모드 #AI 개요 #광고 수익화 #자본지출 #클라우드 사업 #인공지능 #AI\n저작권자 © AI타임스 무단전재 및 재배포, AI학습 및 활용 금지\n개의 댓글\n댓글 정렬\nBEST댓글\nBEST 댓글 답글과 추천수를 합산하여 자동으로 노출됩니다.\n내 댓글 모음\n모바일버전",
+      "mentioned_by": [
+        "AI타임스"
+      ]
+    },
+    {
+      "id": "d9d311919980",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch AI",
+      "via": "rss",
+      "published_at": "2026-10-28T15:00:00+00:00",
+      "snippet": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "content": "Posted:\nJulie Bort\nNvidia on Wednesday released Nemotron 3.5 Transcribe , a free, open-weight model that transcribes audio in up to 40 languages. It also released version 2 of Granary, its open source speech dataset.\nNvidia boasts that Nemotron 3.5 can translate 31 languages to and from English, handle recordings up to an hour long, and tell up to eight speakers apart. It claims to beat rivals on benchmarks, including Hugging Face’s Open ASR Leaderboard .\nThese tools target developers building apps for business meetings and medical transcription, two of AI’s most established footholds in the workplace. Nvidia says developers can use the model, the updated Granary dataset, and tools like its NeMo Speech model to customize apps to recognize an industry’s jargon in each language. One drawback: Transcribe works with recorded audio, not livestreams.\nStill, the company promises Transcribe, at 30 billion parameters, can run on a single chip, from the Jetson AGX Thor robotics controller and DGX Spark chip powering new laptops , to Blackwell datacenter chips. It joins Nvidia’s open-weight voice models, including the super small yet powerful Parakeet (1.1 billion parameters).\nNvidia’s latest voice entry comes during a busy period of AI voice releases: Mistral shipped Voxtral 3 earlier this month; ElevenLabs launched Realtime for instant speech in voice agents; and Salesforce released Launa-Omni, its voice model.\nTopics\nBuy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\nNewsletters\nSubscribe for the industry’s biggest tech news\nRelated\nEnterprise Microsoft hits 10 quarters of record-breaking revenue in a row Julie Bort 9 hours ago\nMicrosoft hits 10 quarters of record-breaking revenue in a row\nJulie Bort\nAI General Compute raises $100 million Series A, countering the neocloud disaster narrative Tim Fernholz 2 days ago\nGeneral Compute raises $100 million Series A, countering the neocloud disaster narrative\nTim Fernholz\nAI Nvidia backs Indian startup helping companies run AI models with fewer GPUs Jagmeet Singh 2 days ago\nNvidia backs Indian startup helping companies run AI models with fewer GPUs\nJagmeet Singh\nLatest in AI\nEnterprise Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion Aditya Mehta 8 hours ago\nMicrosoft just shared Azure’s actual revenue in dollars: $33.2 billion\nAditya Mehta\nAI Google expands AI Search ads globally as core ad growth slows Lauren Forristal 8 hours ago\nGoogle expands AI Search ads globally as core ad growth slows\nLauren Forristal\nAI Microsoft recorded $10 billion in revenue from OpenAI Rebecca Bellan 9 hours ago\nMicrosoft recorded $10 billion in revenue from OpenAI\nRebecca Bellan",
+      "mentioned_by": [
+        "TechCrunch AI",
+        "techcrunch.com"
+      ]
+    }
+  ],
+  "reserve": [
+    {
+      "id": "5d56fc53d545",
+      "title": "오픈AI·앤트로픽, 캘리포니아주에 AI 규제 강화 촉구...'킬 스위치'는 입장 엇갈려",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216789",
+      "source": "AI타임스",
+      "via": "rss",
+      "published_at": "2026-10-29T06:12:56+00:00",
+      "snippet": "오픈AI와 앤트로픽이 캘리포니아주에 AI 안전 규제 강화를 촉구했다. 오픈AI는 AI 모델의 긴급 종료 기능과 외부 독립 감사를 의무화하는 방안을 제안했고, 앤트로픽은 심각한 위험이 확인된 모델의 출시를 법원이 막을 수 있어야 한다고 주장했다. 다만 모델 전체를 한 번에 중단하는 '킬 스위치(Kill Switch)' 의무화에는 입장이 엇갈렸다.로이터에 따르면, 앤트로픽은 지난 15일(현지시간) 개빈 뉴섬 캘리포니아 주지사에게 보낸 서한에서 AI 모델이 대중에게 심각한 위험을 초래할 경우 정부가 법원에 출시 금지 명령을 요청할 수 있",
+      "content": "발행일: 2026-10-29 15:13 (목)\n로그인뉴스레터 신청\nAI타임스\n오픈AI·앤트로픽, 캘리포니아주에 AI 규제 강화 촉구...'킬 스위치'는 입장 엇갈려\n글자크기 설정\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n스크롤 이동 상태바\n오픈AI·앤트로픽, 캘리포니아주에 AI 규제 강화 촉구...'킬 스위치'는 입장 엇갈려\n 박찬 기자\n 입력 2026.10.29 15:12\n 댓글 0\n 구글 검색 선호 출처로 추가\n글자크기 설정\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n이 기사를 공유합니다\n(사진=셔터스톡)\n(사진=셔터스톡)\n오픈AI와 앤트로픽이 캘리포니아주에 AI 안전 규제 강화를 촉구했다. 오픈AI는 AI 모델의 긴급 종료 기능과 외부 독립 감사를 의무화하는 방안을 제안했고, 앤트로픽은 심각한 위험이 확인된 모델의 출시를 법원이 막을 수 있어야 한다고 주장했다. 다만 모델 전체를 한 번에 중단하는 '킬 스위치(Kill Switch)' 의무화에는 입장이 엇갈렸다.\n로이터에 따르면, 앤트로픽은 지난 15일(현지시간) 개빈 뉴섬 캘리포니아 주지사에게 보낸 서한에서 AI 모델이 대중에게 심각한 위험을 초래할 경우 정부가 법원에 출시 금지 명령을 요청할 수 있어야 한다고 밝혔다.\n오픈AI도 20일 서한을 보내 현행 AI 투명성 법률을 강화하고 개발사의 안전 관리 의무를 확대할 것을 제안했다.\n이번 서한은 뉴섬 주지사가 지난 9월 AI 안전 규제 개선안을 마련하기 위해 전문가 패널을 구성한 데 따른 것이다. 두 회사는 AI 기술의 위험성이 커지는 상황에서 정부의 감독과 기업의 안전 책임을 강화해야 한다는 데 뜻을 같이했지만, 구체적인 통제 방식에서는 차이를 보였다.\n앤트로픽은 심각한 위험이 확인된 AI 모델에 대해 정부가 사법적 조치를 요청할 수 있도록 해야 한다고 강조했다. 서한을 통해 “검토 결과 모델이 심각한 위험을 초래한다고 판단되면 정부가 법원에 해당 모델의 출시를 막아달라고 요청할 수 있어야 한다”고 밝혔다.\n반면 모든 모델에 전체 시스템을 일괄적으로 중단할 수 있는 킬 스위치를 의무화하는 방안에는 반대했다. 기업이 모델에 대한 통제력을 잃었을 때 시스템 전체를 종료하도록 하는 장치가 실제 위험을 충분히 해결하지 못하면서 당국에 잘못된 안도감을 줄 수 있다는 이유에서다.\n대신 문제가 발생한 AI 에이전트만 비활성화하거나 특정 고객의 모델 접근을 차단하는 등 위험에 맞춘 표적형 개입이 더 효과적이라고 주장했다. 모델 전체를 멈추는 방식보다 문제의 원인을 직접 통제하는 편이 현실적이라는 설명이다.\n오픈AI는 더 구체적인 안전 규제 방안을 제시했다. AI 기업이 모델을 긴급 종료할 수 있는 통제 기능을 갖추고, 매년 외부 독립 감사를 받으며, 사이버 보안 기준을 강화하도록 해야 한다는 내용이다.\n특히 캘리포니아주의 AI 투명성 법률인 'SB53'을 강화할 것을 제안했다. 2025년 제정된 SB53은 첨단 AI 개발사에 안전 프레임워크와 투명성 보고서를 공개하고 중대한 안전 사고를 보고하도록 규정하고 있다. 오픈AI는 기존 의무에 긴급 종료 통제와 독립 감사 등을 추가해야 한다는 입장이다.\nAI가 스스로 연구·개발을 자동화하는 능력도 안전 관리 대상에 포함해야 한다고 밝혔다. 오픈AI는 서한에서 “안전 프레임워크는 첨단 모델이 AI 연구와 개발을 자동화할 수 있는 능력을 명시적으로 다뤄야 한다”고 제안했다. AI가 더 발전해 스스로 연구를 수행하고 성능을 개선할 경우, 인간이 시스템을 이해하고 통제하기 어려워질 수 있다는 우려를 반영한 것이다.\n두 회사의 입장 변화도 주목된다. 오픈AI는 지난해 캘리포니아주 의회에서 SB53이 논의될 당시에는 주 단위의 과도한 규제에 반대했다. 그러나 최근에는 전국 단위의 의무적 AI 안전 기준을 지지하면서 주 정부 차원의 규제 추진도 이어가야 한다는 입장을 보이고 있다.\n미국에서는 AI 모델의 출시를 정부가 제한하거나 위험한 모델의 작동을 중단하도록 하는 법안도 논의돼 왔다. 지난해 9월에는 위험한 AI 모델의 출시를 정부가 막을 수 있도록 하는 초당적 법안이 검토됐으며, 하원에서는 인간의 생명이나 경제에 위험을 초래하는 모델의 종료를 명령할 수 있도록 하는 'AI 킬 스위치 법안'도 발의됐다.\n그러나 관련 논의가 실제 입법으로 이어질지는 불확실하다.\n박찬 기자 cpark@aitimes.com\n관련기사\n 캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각\n \"AI 모델 해킹 사고 때문?\"…오픈AI, 캘리포니아 AI 규제법 지지로 급선회\n 캘리포니아, 트럼프 반대 불구 AI 규제 추진\n박찬 기자의 프로필 이미지\n박찬 기자 cpark@aitimes.com\n다른기사 보기\n키워드\n#오픈AI #앤트로픽 #캘리포니아주 #AI 규제 강화 촉구 #킬 스위치 #개빈 뉴섬 #출시 금지 명령 #긴급 종료 #인공지능 #AI\n저작권자 © AI타임스 무단전재 및 재배포, AI학습 및 활용 금지\n개의 댓글\n댓글 정렬\nBEST댓글\nBEST 댓글 답글과 추천수를 합산하여 자동으로 노출됩니다.\n내 댓글 모음\n모바일버전",
+      "mentioned_by": [
+        "AI타임스"
+      ]
+    },
+    {
+      "id": "75e2017ed4c5",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI",
+      "via": "rss",
+      "published_at": "2026-10-28T13:15:00+00:00",
+      "snippet": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "content": "October 28, 2026\nServiceNow will bring OpenAI models and agents into workflows from development to security, and expand ChatGPT Work and Codex to employees.\nOpenAI and ServiceNow are expanding our partnership to bring more of our models and agents into ServiceNow products and connect ServiceNow workflows with ChatGPT and Codex. Together, we’re making it easier for businesses to build applications, resolve IT requests and address security issues using AI.\nThe expansion builds on our partnership announced in January, bringing OpenAI into more of the work ServiceNow does for its customers and within its own business.\nWorking with ServiceNow through ChatGPT\nA new ServiceNow integration will bring business context and workflow actions directly into ChatGPT, helping teams investigate issues and take the next step in the same conversation. An IT team member will be able to find similar incidents, assess the risk of a change and update a ServiceNow record without leaving ChatGPT.\nCustomers connect ChatGPT to their own ServiceNow instance and choose which capabilities to make available. ServiceNow’s Action Fabric applies existing business rules and permissions, so the actions people can take reflect their organization’s configuration and access.\nServiceNow is also previewing interactive experiences inside ChatGPT. In one example, an on-call engineer will be able to review linked monitoring alerts, recent changes and affected services, then assign the right team and work toward a fix within ChatGPT.\nGreg Brockman\nBill McDermott\nGreg Brockman\nBill McDermott\nPowering more ServiceNow products with OpenAI\nWe also plan to develop new capabilities across three areas:\nApplication development: A planned Codex integration in ServiceNow’s AI Workflow Factory will help developers build applications using ServiceNow’s business context and platform capabilities. OpenAI models will also power Build Agent and Autonomous Engineer to support application development and modernization.\nApplication development: A planned Codex integration in ServiceNow’s AI Workflow Factory will help developers build applications using ServiceNow’s business context and platform capabilities. OpenAI models will also power Build Agent and Autonomous Engineer to support application development and modernization.\nCybersecurity: A joint security solution will combine OpenAI’s cybersecurity capabilities with ServiceNow’s asset, identity and business context to help teams investigate vulnerabilities, prioritize risks and coordinate remediation.\nCybersecurity: A joint security solution will combine OpenAI’s cybersecurity capabilities with ServiceNow’s asset, identity and business context to help teams investigate vulnerabilities, prioritize risks and coordinate remediation.\nVoice: An OpenAI-powered experience in ServiceNow’s Super Intelligence Control Tower will let people describe an AI use case aloud, helping populate assessment fields and gather missing information through follow-up questions.\nVoice: An OpenAI-powered experience in ServiceNow’s Super Intelligence Control Tower will let people describe an AI use case aloud, helping populate assessment fields and gather missing information through follow-up questions.\nBringing ChatGPT Work and Codex to all ServiceNow employees\nServiceNow plans to give all employees access to ChatGPT Work and Codex, expanding beyond its engineering organization. Engineers can use Codex to explore codebases, make changes and run tests, while teams across the business can use ChatGPT Work in their day-to-day work. ServiceNow also plans to use OpenAI capabilities in its internal security work. OpenAI is also using ServiceNow workflows in our own operations, supported by the Super Intelligence Control Tower.\nAvailability\nThe ServiceNow MCP plugin is available in the OpenAI marketplace today, with enhanced capabilities expected by the end of 2026. Voice capabilities in the Super Intelligence Control Tower are expected in the first quarter of 2027. The OpenAI-powered security capabilities are expected to enter early access in January 2027, with general availability planned for the second quarter of 2027. Codex in AI Workflow Factory is expected to be available in 2027.\nKeep reading\nCompany Oct 27, 2026\nCompany Oct 22, 2026\nSafety Oct 21, 2026",
+      "mentioned_by": [
+        "OpenAI"
+      ]
+    }
+  ],
+  "scores": {
+    "5d56fc53d545": {
+      "rule": 7,
+      "rule_note": "출처+2 키워드+3 최신+2",
+      "llm": 7,
+      "reason": "주요 AI 기업들이 캘리포니아의 안전 규제와 출시 제한 방안을 직접 제안한 소식으로 향후 규제 논의에 영향을 줄 수 있습니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 7
+    },
+    "08a61b934837": {
+      "rule": 5,
+      "rule_note": "출처+2 키워드+1 최신+2"
+    },
+    "157a74dac7e0": {
+      "rule": 0,
+      "rule_note": "출처-2 최신+2"
+    },
+    "1ceec78ee313": {
+      "rule": 6,
+      "rule_note": "출처+2 키워드+2 최신+2",
+      "llm": 6,
+      "reason": "한컴의 미국 SMB 대상 멀티에이전트 제품 출시 계획은 업무용 에이전트 시장의 새로운 시도지만 아직 출시 전입니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 6
+    },
+    "fc956991a1b6": {
+      "rule": 6,
+      "rule_note": "출처+2 키워드+2 최신+2"
+    },
+    "e3db4b7f6ecf": {
+      "rule": 5,
+      "rule_note": "출처+2 키워드+1 최신+2"
+    },
+    "730774a5cb2a": {
+      "rule": 6,
+      "rule_note": "출처+2 키워드+2 최신+2"
+    },
+    "7ea52e7b78bf": {
+      "rule": 1,
+      "rule_note": "출처-2 키워드+1 최신+2"
+    },
+    "8294e051015e": {
+      "rule": 2,
+      "rule_note": "출처-2 키워드+2 최신+2"
+    },
+    "5c9475f0d8f1": {
+      "rule": 6,
+      "rule_note": "출처+2 키워드+2 최신+2"
+    },
+    "c1488aa54e71": {
+      "rule": 7,
+      "rule_note": "출처+2 키워드+3 최신+2",
+      "llm": 8,
+      "reason": "AI 검색 이용 증가에도 광고 수익화가 뒤처진다는 점과 구글 주가 급락은 검색 사업의 AI 전환과 수익 모델을 가늠하는 중요한 신호입니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 8
+    },
+    "827e422339e9": {
+      "rule": 7,
+      "rule_note": "출처+2 키워드+3 최신+2",
+      "llm": 8,
+      "reason": "퓨리오사AI의 대규모 투자 유치와 기업가치 상승은 국내 AI 반도체 생태계와 경쟁력에 의미 있는 소식입니다.",
+      "duplicate_of": null,
+      "bonus": 1,
+      "final": 9
+    },
+    "76316c94ca69": {
+      "rule": 7,
+      "rule_note": "출처+2 키워드+3 최신+2",
+      "llm": 8,
+      "reason": "애저의 높은 성장과 AI 인프라 투자 전망 변화는 클라우드·AI 시장의 수요와 공급 상황을 보여주는 주요 기업 동향입니다.",
+      "duplicate_of": null,
+      "bonus": 1,
+      "final": 9
+    },
+    "25f55e5d4241": {
+      "rule": 6,
+      "rule_note": "출처+2 키워드+2 최신+2"
+    },
+    "7d352f62aaca": {
+      "rule": 6,
+      "rule_note": "출처+2 키워드+2 최신+2"
+    },
+    "a7ebf1868ca3": {
+      "rule": 0,
+      "rule_note": "출처-2 최신+2"
+    },
+    "31e4b3a55fe3": {
+      "rule": 2,
+      "rule_note": "출처-2 키워드+2 최신+2"
+    },
+    "db4e78d47ef0": {
+      "rule": 1,
+      "rule_note": "출처-2 키워드+1 최신+2"
+    },
+    "accdec8a42f6": {
+      "rule": 3,
+      "rule_note": "출처+2 키워드+2 최신+2 AI아님-3"
+    },
+    "e906576a8c90": {
+      "rule": 2,
+      "rule_note": "출처-2 키워드+2 최신+2"
+    },
+    "cbdce159d7c0": {
+      "rule": 0,
+      "rule_note": "출처-2 최신+2"
+    },
+    "07bbd840c3ad": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+1 최신+1"
+    },
+    "c4b6c0010b59": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+1 최신+1"
+    },
+    "0615ed10d2f3": {
+      "rule": 5,
+      "rule_note": "출처+2 키워드+2 최신+1",
+      "llm": 6,
+      "reason": "중국 AI 연구소들이 OpenAI의 최신 모델을 증류 대상으로 삼는다는 내용은 모델 경쟁과 기술 유출 우려를 보여주지만 보도 정보가 제한적입니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 6
+    },
+    "41e0dc889e76": {
+      "rule": 9,
+      "rule_note": "출처+2 키워드+2 여러곳+4 최신+1",
+      "llm": 9,
+      "reason": "다룬 곳이 많고 차세대 프런티어 모델 발표는 업계 경쟁 구도에 큰 영향을 줄 수 있지만, 현재 이용할 수 없다는 점은 실무 효용을 제한합니다.",
+      "duplicate_of": null,
+      "bonus": 3,
+      "final": 12
+    },
+    "6e4063072a87": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+1 최신+1",
+      "llm": 4,
+      "reason": "AI에 대한 대중의 부정적 인식이 커질 수 있다는 업계 인사의 발언은 사회적 수용성을 살펴볼 단서지만 구체적인 변화나 근거를 제공하진 않습니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 4
+    },
+    "26b1e99406b4": {
+      "rule": 1,
+      "rule_note": "출처-2 키워드+2 최신+1"
+    },
+    "961118b6ca7e": {
+      "rule": 5,
+      "rule_note": "출처+2 키워드+2 최신+1",
+      "llm": 3,
+      "reason": "미국 의회의 AI 정책을 다룰 예정이라는 안내성 기사로 구체적인 정책 변화나 새 정보는 제시되지 않았습니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 3
+    },
+    "2a6e5ffc89e1": {
+      "rule": 6,
+      "rule_note": "출처+2 키워드+3 최신+1",
+      "llm": 8,
+      "reason": "블룸버그의 독점 보도로 퓨리오사AI의 대규모 투자와 기업가치 상승을 전한 중요 소식이며, 국내 기사와 같은 투자 라운드를 다룹니다.",
+      "duplicate_of": "827e422339e9",
+      "bonus": 0,
+      "final": 8
+    },
+    "2abc6babe164": {
+      "rule": 2,
+      "rule_note": "출처-2 키워드+3 최신+1"
+    },
+    "99ea46381bb7": {
+      "rule": 3,
+      "rule_note": "출처+2 최신+1"
+    },
+    "f72faadd41de": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+1 최신+1"
+    },
+    "1134b6a1764a": {
+      "rule": 1,
+      "rule_note": "출처+2 키워드+1 최신+1 AI아님-3"
+    },
+    "9b7dd4a7a685": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+1 최신+1",
+      "llm": 7,
+      "reason": "구글이 AI 검색 광고를 전 세계로 확대하는 것은 검색 광고의 수익화와 업무용 검색 경험의 변화에 영향을 줄 수 있는 주요 제품 동향입니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 7
+    },
+    "f9d1493b929c": {
+      "rule": 1,
+      "rule_note": "출처+2 키워드+1 최신+1 AI아님-3"
+    },
+    "8a483cf9155c": {
+      "rule": 2,
+      "rule_note": "출처+2 키워드+2 최신+1 AI아님-3"
+    },
+    "0ef91bd8c8c1": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+1 최신+1",
+      "llm": 8,
+      "reason": "마이크로소프트의 사상 최대 매출은 주요 기업의 실적을 보여주는 중요한 소식이며, AI 투자 지연과 네오클라우드 주가 하락을 다룬 후보 기사와 같은 실적 발표를 다룹니다.",
+      "duplicate_of": "76316c94ca69",
+      "bonus": 0,
+      "final": 8
+    },
+    "a7dd1256f1ed": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+1 최신+1"
+    },
+    "ff3c4a07392b": {
+      "rule": 1,
+      "rule_note": "출처-2 키워드+2 최신+1"
+    },
+    "93a2f5f02dee": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+1 최신+1",
+      "llm": 7,
+      "reason": "에이전트가 민감한 금융 정보를 사내 채널에 게시한 사례는 기업에서 에이전트 권한과 데이터 보호를 설계할 때 유의할 실무 위험을 보여줍니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 7
+    },
+    "d29f179e903a": {
+      "rule": 3,
+      "rule_note": "출처+2 최신+1"
+    },
+    "93d6f7fe0d5e": {
+      "rule": 5,
+      "rule_note": "출처+2 키워드+2 최신+1"
+    },
+    "002f538e4374": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+1 최신+1"
+    },
+    "561c0ac013ce": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+1 최신+1"
+    },
+    "aade5ee6a5d1": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+1 최신+1"
+    },
+    "ea370fdd96af": {
+      "rule": 6,
+      "rule_note": "출처+2 키워드+3 최신+1",
+      "llm": 6,
+      "reason": "기업이 AI 모델 지출의 내역과 효과를 파악하도록 돕는 도구는 도입 비용 관리에 유용할 수 있지만 구체적인 기능과 범위가 제한적으로 소개됐습니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 6
+    },
+    "8500267ec5b4": {
+      "rule": 1,
+      "rule_note": "출처+2 키워드+1 최신+1 AI아님-3"
+    },
+    "89595f98ddbe": {
+      "rule": 2,
+      "rule_note": "출처-2 키워드+3 최신+1"
+    },
+    "238a740f5b9d": {
+      "rule": 5,
+      "rule_note": "출처+2 키워드+2 최신+1",
+      "llm": 4,
+      "reason": "스마트 TV에서 Copilot 지원을 종료한다는 소식은 제품 전략의 변화지만 영향을 받는 이용 사례가 제한적입니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 4
+    },
+    "d0571cab6ac7": {
+      "rule": -1,
+      "rule_note": "출처-2 키워드+1"
+    },
+    "60015210d3fe": {
+      "rule": -1,
+      "rule_note": "출처-2 키워드+1"
+    },
+    "9a783b4021e0": {
+      "rule": 5,
+      "rule_note": "출처+2 키워드+1 여러곳+2",
+      "llm": 5,
+      "reason": "지역에 따라 달라지는 구글 AI의 선거 관련 답변은 정치 정보의 신뢰성과 모델 일관성을 점검할 사례지만 업계 전반의 영향은 제한적입니다.",
+      "duplicate_of": null,
+      "bonus": 1,
+      "final": 6
+    },
+    "2c5154c2f2a4": {
+      "rule": 5,
+      "rule_note": "출처+2 키워드+3",
+      "llm": 2,
+      "reason": "제목과 달리 설명이 여러 기업·제품 소식을 나열해 핵심 내용이 불분명하고 독자에게 전달할 구체적 정보가 부족합니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 2
+    },
+    "cca2247626bb": {
+      "rule": 0,
+      "rule_note": "출처+2 키워드+1 AI아님-3"
+    },
+    "5e4098babe95": {
+      "rule": 2,
+      "rule_note": "출처+2"
+    },
+    "a01db71b034c": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "baa5b96a7825": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+2"
+    },
+    "b358f24cec5b": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "0618c7ee8ff8": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+2"
+    },
+    "554179e8d324": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "516d6345c17a": {
+      "rule": 2,
+      "rule_note": "출처+2"
+    },
+    "97373eedda74": {
+      "rule": 3,
+      "rule_note": "출처+2 키워드+1"
+    },
+    "1af93ecc8fda": {
+      "rule": 2,
+      "rule_note": "출처+2"
+    },
+    "d9d311919980": {
+      "rule": 6,
+      "rule_note": "출처+2 키워드+2 여러곳+2",
+      "llm": 7,
+      "reason": "엔비디아의 다국어 음성 전사 모델은 회의록·의료 기록 자동화에 활용할 수 있지만 실시간 음성 처리는 지원하지 않습니다.",
+      "duplicate_of": null,
+      "bonus": 1,
+      "final": 8
+    },
+    "ec174dc4e076": {
+      "rule": -1,
+      "rule_note": "출처-2 키워드+1"
+    },
+    "6869f9042a40": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+2"
+    },
+    "7ae8eb20550e": {
+      "rule": 1,
+      "rule_note": "출처+3 키워드+1 AI아님-3"
+    },
+    "f010b1f4f032": {
+      "rule": 2,
+      "rule_note": "출처+2 키워드+3 AI아님-3"
+    },
+    "8be023ff184f": {
+      "rule": 3,
+      "rule_note": "출처+2 키워드+1"
+    },
+    "31f4319d64ab": {
+      "rule": -1,
+      "rule_note": "출처-2 키워드+1"
+    },
+    "31ebe027e441": {
+      "rule": 2,
+      "rule_note": "출처+2"
+    },
+    "75e2017ed4c5": {
+      "rule": 5,
+      "rule_note": "출처+3 키워드+2",
+      "llm": 7,
+      "reason": "OpenAI 모델과 에이전트를 ServiceNow 업무 흐름에 통합하는 제휴 확대는 기업 업무 자동화 도구의 활용 범위를 넓힐 수 있습니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 7
+    },
+    "efca0b654d0c": {
+      "rule": -1,
+      "rule_note": "출처+2 AI아님-3"
+    },
+    "b11212407538": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+2"
+    },
+    "712158b5271b": {
+      "rule": -2,
+      "rule_note": "출처-2"
+    },
+    "7de9f8b0f51e": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "cf5c3f4a4398": {
+      "rule": 0,
+      "rule_note": "출처+2 키워드+1 AI아님-3"
+    },
+    "c3f87b32bcfc": {
+      "rule": 2,
+      "rule_note": "출처+2"
+    },
+    "5d6eaee12e2a": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+2"
+    },
+    "4683a3b03315": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "d09158eb5a09": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "a192caa9ff24": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+2"
+    },
+    "a63e0c1971aa": {
+      "rule": -1,
+      "rule_note": "출처-2 키워드+1"
+    },
+    "138b4764fa92": {
+      "rule": 0,
+      "rule_note": "출처-2 키워드+2"
+    },
+    "11d0fb89052c": {
+      "rule": -1,
+      "rule_note": "출처-2 키워드+1"
+    },
+    "0dc3cf0b7c98": {
+      "rule": 3,
+      "rule_note": "출처+3"
+    },
+    "74a22c03a6aa": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "41c97fe8dc29": {
+      "rule": 5,
+      "rule_note": "출처+3 키워드+2",
+      "llm": 3,
+      "reason": "법률 업무에 AI를 활용한 사례는 참고할 만하지만 OpenAI가 소개하는 단일 고객 사례라 독립적인 정보와 업계 파급력이 제한적입니다.",
+      "duplicate_of": null,
+      "bonus": 0,
+      "final": 3
+    },
+    "49687b61f0e6": {
+      "rule": 3,
+      "rule_note": "출처+2 키워드+1"
+    },
+    "2a282d81c7da": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "2977c0b8c0fc": {
+      "rule": 1,
+      "rule_note": "출처+2 키워드+2 AI아님-3"
+    },
+    "b6a8791a69a8": {
+      "rule": 3,
+      "rule_note": "출처+2 키워드+1"
+    },
+    "fc59bbd0021b": {
+      "rule": 3,
+      "rule_note": "출처+2 키워드+1"
+    },
+    "2c089f4b3d11": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "cd016c26a2d6": {
+      "rule": 3,
+      "rule_note": "출처+2 키워드+1"
+    },
+    "15c1779b0fa2": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "ae80aca0a806": {
+      "rule": 3,
+      "rule_note": "출처+2 키워드+1"
+    },
+    "6478b7f79411": {
+      "rule": 1,
+      "rule_note": "출처-2 키워드+3"
+    },
+    "ef292caec156": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "5259596fc474": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    },
+    "98fca73b4229": {
+      "rule": 5,
+      "rule_note": "출처+2 키워드+3"
+    },
+    "380116603104": {
+      "rule": 4,
+      "rule_note": "출처+2 키워드+2"
+    }
+  },
+  "summaries": {
+    "41e0dc889e76": {
+      "headline": "구글, 아직 쓸 수 없는 Gemini 4 Carbon 발표",
+      "one_liner": "구글이 Gemini 4 Argon을 개선한 새 모델 Gemini 4 Carbon을 발표했지만, 단계적 출시를 진행 중이어서 아직 이용할 수 없다.",
+      "key_points": [
+        "구글은 Carbon이 보안 취약점 탐지·검증·수정에서 큰 도약을 보였으며, Argon보다 취약점 없는 코드를 생성할 가능성이 두 배라고 밝혔다.",
+        "크롬팀은 Carbon이 구글 외 모델보다 ‘고품질’ 패치를 생성하는 능력이 10배 뛰어나다고 주장했다.",
+        "Carbon은 WebDev Arena 점수를 89점 높여 순위 4위에 올랐다."
+      ],
+      "why_it_matters": "코드 보안과 패치 생성 능력 개선 주장이 실제로 확인된다면 개발 업무에 도움이 될 수 있지만, 단계적 출시가 진행 중이라 당장은 직접 사용하기 어렵다.",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "source": "Ars Technica AI",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "based_on": "본문",
+      "model": "gpt-6-luna"
+    },
+    "827e422339e9": {
+      "headline": "퓨리오사AI, 시리즈D 8200억원 유치",
+      "one_liner": "퓨리오사AI가 총 8200억원 규모의 시리즈D 투자를 완료했으며, 투자 후 기업가치는 약 3조8000억원으로 평가됐다.",
+      "key_points": [
+        "국민성장펀드가 3700억원을 투자해 최대 투자자로 참여했고, 기존 주주들의 후속 투자 규모는 총 1700억원이다.",
+        "퓨리오사AI는 투자금을 2세대 AI 반도체 ‘레니게이드(RNGD)’ 생산 확대와 글로벌 상용화, 브로드컴과 협력 중인 3세대 AI 가속기 개발에 투입할 계획이다.",
+        "회사는 레니게이드 양산을 올해 1월 시작했으며, LG AI연구원·삼성SDS·업스테이지와 상용화 협력 사례를 확보했다."
+      ],
+      "why_it_matters": "이번 투자로 퓨리오사AI는 레니게이드의 생산과 글로벌 상용화, 차세대 AI 가속기 개발을 추진할 자금을 확보했다. 투자 계획이 진행되면 AI 인프라 시장에 공급하는 제품 확대에 도움이 될 수 있다.",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216770",
+      "source": "AI타임스",
+      "title": "퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파",
+      "based_on": "본문",
+      "model": "gpt-6-luna"
+    },
+    "76316c94ca69": {
+      "headline": "MS, 10분기 연속 최대 매출…네오클라우드 하락",
+      "one_liner": "마이크로소프트가 클라우드 성장에 힘입어 분기 최대 매출을 기록했지만, 외부 AI 인프라 공급 지연으로 연간 자본지출 전망을 낮추자 네오클라우드 업체 주가가 하락했다.",
+      "key_points": [
+        "MS의 회계연도 2027년 1분기 매출은 전년 동기 대비 19% 증가한 922억8000만 달러로, 10분기 연속 분기 기준 사상 최대치를 기록했다.",
+        "애저 매출은 전년 동기 대비 48% 증가했고, 오픈AI 관련 매출은 이번 분기 100억 달러에 달했다.",
+        "MS는 외부 인프라 공급 지연을 이유로 2026년 연간 자본지출 전망을 1750억 달러에서 1700억 달러로 낮췄으며, 실적 발표 뒤 코어위브와 네비우스 주가는 시간외 거래에서 각각 약 5% 하락했다."
+      ],
+      "why_it_matters": "MS의 실적은 기업들의 AI 수요가 여전히 강하다는 점을 보여주는 한편, 인프라 공급 일정이 관련 기업의 사업 일정과 주가에 영향을 줄 수 있음을 드러냈다.",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216773",
+      "source": "AI타임스",
+      "title": "MS, 10분기 연속 최대 매출...AI 투자 지연에 네오클라우드 주가 하락",
+      "based_on": "본문",
+      "model": "gpt-6-luna"
+    },
+    "c1488aa54e71": {
+      "headline": "구글 AI 검색 급증에도 광고 매출 둔화",
+      "one_liner": "구글의 AI 모드 검색어가 최근 5년 사이 가장 빠르게 늘었지만, 검색 광고 매출 증가율은 낮아지고 실적 발표 뒤 주가는 시간외 거래에서 약 10% 하락했다.",
+      "key_points": [
+        "3분기 전체 매출은 전년 동기 대비 25% 증가한 1276억달러였지만, 시장 예상치 1282억달러를 밑돌았다.",
+        "검색 및 관련 사업 매출은 633억5000만달러로 12% 증가했으며, 증가율은 1분기 19%, 2분기 17%에서 낮아졌다.",
+        "구글 클라우드 매출은 103% 증가한 307억1000만달러를 기록했지만, 3분기 자본지출은 513억6000만달러였고 잉여현금흐름은 90억7000만달러 적자였다."
+      ],
+      "why_it_matters": "AI 검색으로 사용량이 늘어도 광고 수익화가 기존 검색보다 낮아 매출 증가로 곧바로 이어지지 않을 수 있음을 보여준다. AI 인프라 투자 부담도 커지는 가운데, 구글은 AI 검색 광고 확대와 수익화 개선을 추진하고 있다.",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216774",
+      "source": "AI타임스",
+      "title": "구글, AI로 검색량 급증했지만 광고 매출은 둔화...주가 10% 급락",
+      "based_on": "본문",
+      "model": "gpt-6-luna"
+    },
+    "d9d311919980": {
+      "headline": "엔비디아, 음성 전사 모델 공개",
+      "one_liner": "엔비디아가 최대 40개 언어의 음성을 전사하는 무료 오픈웨이트 모델 Nemotron 3.5 Transcribe를 공개했습니다.",
+      "key_points": [
+        "Nemotron 3.5 Transcribe는 영어를 기준으로 31개 언어를 번역할 수 있고, 최대 1시간 분량의 녹음과 최대 8명의 화자를 처리합니다.",
+        "엔비디아는 300억 파라미터 모델이 Jetson AGX Thor, DGX Spark, Blackwell 데이터센터 칩 등 단일 칩에서 실행될 수 있다고 밝혔습니다.",
+        "이 모델은 회의·의료 전사 앱 개발을 겨냥하며, 녹음된 음성만 처리하고 실시간 스트리밍은 지원하지 않습니다."
+      ],
+      "why_it_matters": "개발자는 모델과 업데이트된 Granary 데이터셋, NeMo Speech 같은 도구를 활용해 언어별 업계 용어를 인식하는 앱을 맞춤화할 수 있습니다. 다만 실시간 음성 처리가 필요한 용도에는 맞지 않을 수 있습니다.",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch AI",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "based_on": "본문",
+      "model": "gpt-6-luna"
+    }
+  },
+  "retry_counts": {
+    "41e0dc889e76": 1,
+    "827e422339e9": 1,
+    "76316c94ca69": 1,
+    "c1488aa54e71": 1,
+    "d9d311919980": 1
+  },
+  "review_log": [],
+  "dropped": [],
+  "published": 5,
+  "errors": []
+}
